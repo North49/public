@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- SHOULD BE READ ONLY [EDIT WITH CAUTION] -->
+<!-- Managed by Mr. Lloyd Johnson -->
+<!-- Composed by Young Thanh -->
+
+<!-- <controlName> tag is the name of the control which is coded inside the application. -->
+<!-- <title> tag is the title of the help message.  -->
+<!-- <content> tag is the description of the help message. -->
+<!-- All must exist inside a <tip> tag. -->
+
+<doc>
+  <tip>
+    <controlName>connectionNameTextBox</controlName>
+    <title>Connection Name</title>
+    <content>Just a name to your connection.</content>
+  </tip>
+  <tip>
+    <controlName>sageIpTextBox</controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  
+</doc>
