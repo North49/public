@@ -15,7 +15,7 @@
     <content>Just a name to your connection.</content>
   </tip>
   <tip>
-    <controlName>sageIpTextBox</controlName>
+    <controlName>ipTextBox</controlName>
     <title></title>
     <content></content>
   </tip>
