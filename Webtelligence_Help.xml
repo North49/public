@@ -110,6 +110,36 @@
     <content>Company address will be displayed on the footer.</content>
   </tip>
   <tip>
+    <controlName>newConnectionButton</controlName>
+    <title>Add new connection</title>
+    <content>Add a new connection to your Webtelligence Connect.</content>
+  </tip>
+    <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
     <controlName></controlName>
     <title></title>
     <content></content>
