@@ -80,34 +80,34 @@
     <content>Enter your DSN name.</content>
   </tip>
   <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>imageSrcInfo</controlName>
+    <title>Image Source</title>
+    <content>Select your image.</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>phoneNumberInfo</controlName>
+    <title>Phone Number</title>
+    <content>Phone number which will be displayed on the customer portal header.</content>
   </tip>
   <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>websiteInfo</controlName>
+    <title>Website</title>
+    <content>Website which will be displayed on the customer portal header.</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>titleInfo</controlName>
+    <title>Title</title>
+    <content>Info section title.</content>
   </tip>
   <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>contentInfo</controlName>
+    <title>Content</title>
+    <content>Enter your content info here.</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>addressInfo</controlName>
+    <title>Address</title>
+    <content>Company address will be displayed on the footer.</content>
   </tip>
   <tip>
     <controlName></controlName>
