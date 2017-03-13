@@ -115,9 +115,9 @@
     <content>Add a new connection to your Webtelligence Connect.</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>dataPortGroupBox</controlName>
+    <title>DataPort</title>
+    <content>About our DataPort product...</content>
   </tip>
     <tip>
     <controlName></controlName>
