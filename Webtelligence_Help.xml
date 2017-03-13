@@ -52,32 +52,32 @@
   <tip>
     <controlName>databaseInfo</controlName>
     <title>Database Name</title>
-    <content></content>
+    <content>Enter your database name here.</content>
   </tip>
     <tip>
     <controlName>userNameInfo</controlName>
-    <title></title>
-    <content></content>
+    <title>Database Username</title>
+    <content>Enter your database username.</content>
   </tip>
   <tip>
     <controlName>passwordInfo</controlName>
-    <title></title>
-    <content></content>
+    <title>Database Password</title>
+    <content>Enter your database password.</content>
   </tip>
     <tip>
     <controlName>ACHPaymentCodeInfo</controlName>
-    <title></title>
-    <content></content>
+    <title>ACH Payment Code</title>
+    <content>Enter your ACH Payment Code here. (Optional)</content>
   </tip>
   <tip>
     <controlName>cardPaymentCodeInfo</controlName>
-    <title></title>
-    <content></content>
+    <title>Card Payment Code</title>
+    <content>Enter your Card Payment Code here.</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>dsnNameInfo</controlName>
+    <title>DSN Name</title>
+    <content>Enter your DSN name.</content>
   </tip>
   <tip>
     <controlName></controlName>
