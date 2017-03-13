@@ -10,12 +10,12 @@
 
 <doc>
   <tip>
-    <controlName>connectionNameTextBox</controlName>
+    <controlName>connectionNameInfo</controlName>
     <title>Connection Name</title>
     <content>Just a name to your connection.</content>
   </tip>
   <tip>
-    <controlName>ipTextBox</controlName>
+    <controlName>ipAddressInfo</controlName>
     <title></title>
     <content></content>
   </tip>
