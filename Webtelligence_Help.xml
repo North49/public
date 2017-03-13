@@ -16,10 +16,65 @@
   </tip>
   <tip>
     <controlName>ipAddressInfo</controlName>
+    <title>IP Address</title>
+    <content>Server IP address.</content>
+  </tip>
+  <tip>
+    <controlName>sageUserIDInfo</controlName>
+    <title>Sage User ID</title>
+    <content>Enter your Sage User ID.</content>
+  </tip>
+  <tip>
+    <controlName>sagePasswordInfo</controlName>
+    <title>Sage Password</title>
+    <content>Enter your Sage Password.</content>
+  </tip>
+  <tip>
+    <controlName>companyIDInfo</controlName>
+    <title>Sage Company ID</title>
+    <content>Enter your Sage Company ID.</content>
+  </tip>
+  <tip>
+    <controlName>companyNameInfo</controlName>
+    <title>Sage Company Name</title>
+    <content>Enter your Sage Company Name.</content>
+  </tip>
+  <tip>
+    <controlName>sageVersionInfo</controlName>
+    <title>Sage Version</title>
+    <content>You can find your Sage version by... (not sure)</content>
+  </tip>
+  <tip>
+    <controlName>serverInfo</controlName>
+    <title>Server Name</title>
+    <content>Enter your full server name here. Must be accessable within the hosted computer.</content>
+  </tip>
+  <tip>
+    <controlName>databaseInfo</controlName>
+    <title>Database Name</title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName>userNameInfo</controlName>
     <title></title>
     <content></content>
   </tip>
   <tip>
+    <controlName>passwordInfo</controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
+    <controlName>ACHPaymentCodeInfo</controlName>
+    <title></title>
+    <content></content>
+  </tip>
+  <tip>
+    <controlName>cardPaymentCodeInfo</controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
     <controlName></controlName>
     <title></title>
     <content></content>
@@ -29,7 +84,7 @@
     <title></title>
     <content></content>
   </tip>
-  <tip>
+    <tip>
     <controlName></controlName>
     <title></title>
     <content></content>
@@ -39,12 +94,17 @@
     <title></title>
     <content></content>
   </tip>
-  <tip>
+    <tip>
     <controlName></controlName>
     <title></title>
     <content></content>
   </tip>
   <tip>
+    <controlName></controlName>
+    <title></title>
+    <content></content>
+  </tip>
+    <tip>
     <controlName></controlName>
     <title></title>
     <content></content>
