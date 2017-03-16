@@ -12,72 +12,72 @@
   <tip>
     <controlName>connectionNameInfo</controlName>
     <title>Connection Name</title>
-    <content>Just a name to your connection.</content>
+    <content>A name for your connection.</content>
   </tip>
   <tip>
     <controlName>ipAddressInfo</controlName>
     <title>IP Address</title>
-    <content>Server IP address.</content>
+    <content>Webtelligence Server IP address.</content>
   </tip>
   <tip>
     <controlName>sageUserIDInfo</controlName>
     <title>Sage User ID</title>
-    <content>Enter your Sage User ID.</content>
+    <content>Sage User ID.</content>
   </tip>
   <tip>
     <controlName>sagePasswordInfo</controlName>
     <title>Sage Password</title>
-    <content>Enter your Sage Password.</content>
+    <content>Sage Password.</content>
   </tip>
   <tip>
     <controlName>companyIDInfo</controlName>
     <title>Sage Company ID</title>
-    <content>Enter your Sage Company ID.</content>
+    <content>Sage Company ID.</content>
   </tip>
   <tip>
     <controlName>companyNameInfo</controlName>
     <title>Sage Company Name</title>
-    <content>Enter your Sage Company Name.</content>
+    <content>Company Name.</content>
   </tip>
   <tip>
     <controlName>sageVersionInfo</controlName>
     <title>Sage Version</title>
-    <content>You can find your Sage version by... (not sure)</content>
+    <content>Sage Version Number (ie 64A)</content>
   </tip>
   <tip>
     <controlName>serverInfo</controlName>
     <title>Server Name</title>
-    <content>Enter your full server name here. Must be accessable within the hosted computer.</content>
+    <content>SQL Server name. Must be accessable from this computer.</content>
   </tip>
   <tip>
     <controlName>databaseInfo</controlName>
     <title>Database Name</title>
-    <content>Enter your database name here.</content>
+    <content>SQL Database Name</content>
   </tip>
     <tip>
     <controlName>userNameInfo</controlName>
     <title>Database Username</title>
-    <content>Enter your database username.</content>
+    <content>SQL Database Username</content>
   </tip>
   <tip>
     <controlName>passwordInfo</controlName>
     <title>Database Password</title>
-    <content>Enter your database password.</content>
+    <content>SQL Database Password</content>
   </tip>
     <tip>
     <controlName>ACHPaymentCodeInfo</controlName>
     <title>ACH Payment Code</title>
-    <content>Enter your ACH Payment Code here. (Optional)</content>
+    <content>ACH Payment Code</content>
   </tip>
   <tip>
     <controlName>cardPaymentCodeInfo</controlName>
     <title>Card Payment Code</title>
-    <content>Enter your Card Payment Code here.</content>
+    <content>Card Payment Code</content>
   </tip>
     <tip>
     <controlName>dsnNameInfo</controlName>
     <title>DSN Name</title>
-    <content>Enter your DSN name.</content>
+    <content>ODBC DSN name</content>
   </tip>
   <tip>
     <controlName>imageSrcInfo</controlName>
@@ -120,9 +120,9 @@
     <content>DataPort is our awesome product...</content>
   </tip>
     <tip>
-    <controlName></controlName>
-    <title></title>
-    <content></content>
+    <controlName>spsProcessingCodeInfo</controlName>
+    <title>SPS Processing Code</title>
+    <content>SPS Processing Code</content>
   </tip>
     <tip>
     <controlName></controlName>
